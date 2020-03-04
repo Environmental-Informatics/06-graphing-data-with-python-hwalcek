@@ -6,7 +6,8 @@ by Hannah Walcek
 Assignment 06 - Graphing Data with Python
 
 This python program reads in a data file and generates summary figures for 
-that file.
+that file. Execute the program with the desired text file first followed
+by the desired name for the produced pdf.
 """
 #importing necessary packages
 import numpy as np
